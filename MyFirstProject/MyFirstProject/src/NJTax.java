@@ -1,0 +1,10 @@
+
+public class NJTax extends Tax {
+
+	public double adjustForStudents(double tax){
+		
+		return tax-500;
+	}
+		
+	
+}
