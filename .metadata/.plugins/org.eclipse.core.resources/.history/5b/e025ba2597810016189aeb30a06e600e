@@ -44,7 +44,6 @@ public class GuessGame {
 		System.out.println("I ihrok vidhadav  "+p1isRight);
 		System.out.println("II ihrok vidhadav  "+p2isRight);
 		System.out.println("III ihrok vsdhadav  "+p3isRight);
-		System.out.println("Finish!!! Game over!!!  ");
 		}	
 	}
 		
