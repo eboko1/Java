@@ -9,7 +9,7 @@ public class Dog {
 	public static void bark() {
 		System.out.println("Gav! Gav! ");}
 	
-public static 	void boo(String string){
+public static 	void boo(){
 		System.out.println("Gav! Gav! GAV!!! ");
 		
 	}

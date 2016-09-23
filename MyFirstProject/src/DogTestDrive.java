@@ -5,8 +5,8 @@ public class DogTestDrive extends Dog {
 		
 		size=40;
 		bark();
+		boo();
 		
-		 boo("May!!!");
 	}
 
 }

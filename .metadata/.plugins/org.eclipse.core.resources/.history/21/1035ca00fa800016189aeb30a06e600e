@@ -1,0 +1,12 @@
+
+public class DogTestDrive extends Dog {
+
+	public static void main(String[] args) {
+		
+		size=40;
+		bark();
+		
+		 boo("May!!!");
+	}
+
+}
