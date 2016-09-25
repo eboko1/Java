@@ -1,0 +1,21 @@
+
+public class Dog {
+
+
+	static int size;
+	String breed;
+	String name;
+	
+	public  void bark(int i) {
+		while (i>0){
+		System.out.println("Gav! ");
+		i=i-1;
+		}
+	}
+public static 	void boo(){
+		System.out.println("Gav! Gav! GAV!!! ");
+		
+	}
+	}
+
+

@@ -2,17 +2,22 @@
 public class Dog {
 
 
-	static int size;
+	int size;
 	String breed;
 	String name;
 	
-	public static void bark() {
-		System.out.println("Gav! Gav! ");}
-	
-public static 	void boo(){
-		System.out.println("Gav! Gav! GAV!!! ");
-		
+	public  void bark(int i) {
+		while (i>0){
+		System.out.println("Gav! ");
+		i=i-1;
+		}
 	}
-	}
+     public 	void boo(int j){
+	  while(j>0){
+		System.out.print ("Vaf! ");
+		j=j-1;
+	  }
+     }
+}
 
 

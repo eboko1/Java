@@ -1,11 +1,11 @@
 
-public class DogTestDrive extends Dog {
+public class DogTestDrive{
 
 	public static void main(String[] args) {
-		
-		size=40;
-		bark();
-		boo();
+		Dog d=new Dog();
+		d.size=40;
+		d.bark(3);	
+		d.boo(2);
 		
 	}
 
