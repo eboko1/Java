@@ -1,0 +1,23 @@
+
+public class Dog {
+ static String name;
+ String says;
+ 
+
+	public static void main(String[] args) {
+		Dog sport  = new Dog();
+		sport.name="Gav";
+		
+		Dog scruffy  = new Dog();
+		scruffy.says="Hav";
+		
+		System.out.println(name+" "+scruffy);
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

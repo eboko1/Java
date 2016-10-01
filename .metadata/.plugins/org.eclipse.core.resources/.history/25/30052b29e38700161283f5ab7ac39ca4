@@ -1,0 +1,19 @@
+
+public class Dog {
+ String name;
+ String says;
+ 
+
+	public static void main(String[] args) {
+		Dog sport  = new Dog();
+		Dog scruffy  = new Dog();
+		System.out.println(sport+" "+scruffy);
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
