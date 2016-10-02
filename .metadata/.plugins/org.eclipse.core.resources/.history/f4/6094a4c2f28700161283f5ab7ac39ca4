@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class ForEachInteger {
+
+	public static void main(String[] args) {
+Random randd=new Random(10);
+int i[]=new int[10];
+
+for (int j=0; j<i.length-1;j++){
+	i[j]=randd.nextInt();
+	for (int x:i){
+	System.out.println(x);	
+	}
+	
+}
+
+	}
+
+}
